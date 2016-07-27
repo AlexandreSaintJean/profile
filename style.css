@@ -110,7 +110,7 @@ text-decoration: none;
 }
 
 .social-media .fa:hover {
-color: #607D8B
+color: #607D8B;
 }
 
 .button:hover {
@@ -125,3 +125,30 @@ table p {
   padding: 10px;
   font-size: 36px;
 }
+
+#sidebar {
+  position: fixed;
+  width: 100px;
+  background-color: #455A64;
+  left: 0;
+  top: 0;
+  bottom: 0;
+}
+
+#sidebar i {
+  color: #E0E0E0;
+}
+
+#sidebar .fa:hover {
+  color:  #03A9F4;
+}
+
+#sidebar ul {
+  list-style:none;
+  margin-left: -22px;
+}
+
+#page-content {
+  margin-left: 100px;
+}
+
