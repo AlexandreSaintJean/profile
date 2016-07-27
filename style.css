@@ -1,6 +1,5 @@
 body {
   background-color: #FAFAFA;
-
 }
 
 .container {
@@ -18,15 +17,15 @@ body {
     font-weight: 700;
     color: #FAFAFA;
     margin-top: -22px;
-    line-height: 61px;
+    line-height: 50px;
     padding-left: 10px;
 
   }
 
 .sub-header h2 {
     background-color: #03A9F4;
-    padding: -15px;
     margin-bottom: 15px;
+    font-style: italic;
 }
 
 .description h3, h4 {
