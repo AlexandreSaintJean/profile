@@ -62,7 +62,11 @@ img {
   text-align: center;
 }
 
-.footer li h4 i {
+.footer li, i {
+  color: #FAFAFA;
+}
+
+.footer h4 {
   color: #FAFAFA;
 }
 
